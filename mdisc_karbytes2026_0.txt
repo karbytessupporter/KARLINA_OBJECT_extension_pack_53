@@ -386,7 +386,7 @@ M_DISC 2 of 2 data collection size: approximately 21 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_0: // folder contains exactly 25 files (approximately 19533.07 megabytes total).
+karbytes2026_0: // folder contains exactly 25 files (approximately 19533.10 megabytes total).
 
     - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
