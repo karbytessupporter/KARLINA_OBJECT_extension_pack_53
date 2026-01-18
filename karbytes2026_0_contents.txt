@@ -16,29 +16,29 @@ file_3: KARLINA_OBJECT_extension_pack_50-main.zip // 753.60 megabytes
 
 file_4: karbytes_dark_websites-main.zip // 0.28 megabytes
 
-file_5: KARLINA_OBJECT-main.zip // 206.49 megabytes
+file_5: KARBYTES_FOR_LIFE_BLOG-main_18january2026.zip // 0.72 megabytes
 
-file_6: KARLINA_OBJECT_extension_pack_52-main.zip // 33.83 megabytes
+file_6: KARLINA_OBJECT-main.zip // 206.49 megabytes
 
-file_7: karbytes_human_genome_fasta_part_0-main.zip // 4955.28 megabytes
+file_7: KARLINA_OBJECT_extension_pack_52-main.zip // 33.83 megabytes
 
-file_8: the_big_green_thing_2025-main.zip // 893.34 megabytes
+file_8: karbytes_human_genome_fasta_part_0-main.zip // 4955.28 megabytes
 
-file_9: karbytes_basement_47-main_15january2026.zip // 141.79 megabytes
+file_9: the_big_green_thing_2025-main.zip // 893.34 megabytes
 
-file_10: KARBYTES_BLOG_APPS-main_02december2025.zip // 541.86 megabytes
+file_10: karbytes_basement_47-main_15january2026.zip // 141.79 megabytes
 
-file_11: karbytes_wayback_machine_saves_precision_batches_extension_1-main_15january2026.zip // 0.03 megabytes
+file_11: KARBYTES_BLOG_APPS-main_02december2025.zip // 541.86 megabytes
 
 file_12: karbytes_human_genome_fasta_part_2-main.zip // 3500.19 megabytes
 
 file_13: karbytes_basement_46-main.zip // 90.41 megabytes
 
-file_14: KARBYTES_FOR_LIFE_BLOG-main_15january2026.zip // 0.72 megabytes
+file_14: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
 
-file_15: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
+file_15: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_16: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
+file_16: karbytes_wayback_machine_saves_precision_batches_extension_1-main_18january2026.zip // 0.04 megabytes
 
 file_17: karbytes_human_genome_fasta_part_3-main.zip // 1989.26 megabytes
 
@@ -48,9 +48,9 @@ file_19: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_05january2026.zip // 274.6
 
 file_20: karbytes_human_genome_fasta_part_1-main.zip // 4545.25 megabytes
 
-file_21: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
+file_21: KARLINA_OBJECT_extension_pack_53-main.zip // 141.68 megabytes
 
-file_22: KARLINA_OBJECT_extension_pack_53-main_15january2026.zip // 32.07 megabytes
+file_22: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
 
 file_23: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 0.15 megabytes
 
@@ -60,6 +60,6 @@ file_24: karbytes_test_github_hosted_website-main.zip // 22.51 megabytes
 
 Total number of files: 25
 
-Total folder size: 19533.10 megabytes
+Total folder size: 19642.71 megabytes
 
 --------------------------------
